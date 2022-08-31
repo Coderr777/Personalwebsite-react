@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coderr777/personalwebsite/static/css/main.0fbb2d56.css",
+    "main.js": "/Coderr777/personalwebsite/static/js/main.4d033d2c.js",
+    "static/js/787.d2155700.chunk.js": "/Coderr777/personalwebsite/static/js/787.d2155700.chunk.js",
+    "static/media/RESUME.pdf": "/Coderr777/personalwebsite/static/media/RESUME.5a693d1bc0ef41662422.pdf",
+    "static/media/portfolio5.png": "/Coderr777/personalwebsite/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/1648987131926.jpg": "/Coderr777/personalwebsite/static/media/1648987131926.2b84a95b128c992d2803.jpg",
+    "static/media/cropp-removebg-preview.png": "/Coderr777/personalwebsite/static/media/cropp-removebg-preview.dfa717a810cf4fec687e.png",
+    "static/media/portfolio6.jpg": "/Coderr777/personalwebsite/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/php.png": "/Coderr777/personalwebsite/static/media/php.48171f2b8038bea7a401.png",
+    "static/media/portfolioreact.jpg.png": "/Coderr777/personalwebsite/static/media/portfolioreact.jpg.8b2e8d923fd0cbb7f2f9.png",
+    "static/media/portfolio3.jpg": "/Coderr777/personalwebsite/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Coderr777/personalwebsite/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/6.png": "/Coderr777/personalwebsite/static/media/6.31c61ea19f0709b84661.png",
+    "index.html": "/Coderr777/personalwebsite/index.html",
+    "main.0fbb2d56.css.map": "/Coderr777/personalwebsite/static/css/main.0fbb2d56.css.map",
+    "main.4d033d2c.js.map": "/Coderr777/personalwebsite/static/js/main.4d033d2c.js.map",
+    "787.d2155700.chunk.js.map": "/Coderr777/personalwebsite/static/js/787.d2155700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbb2d56.css",
+    "static/js/main.4d033d2c.js"
+  ]
+}
